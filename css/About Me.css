@@ -1,0 +1,65 @@
+#judul{
+    text-align: center;
+    margin-top: -10px;
+    font-weight: 800;
+    font-size: x-large;   
+    margin-left: 7rem;
+    margin-bottom: 3rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+p{
+    color:  #999999;
+}
+
+.yasin-img{
+    border-radius: 10%;
+    width: 600px;
+}
+
+.section-konten{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #141432;
+}
+
+ul{
+    color: #999999;
+    margin-left: 100px;
+}
+
+.picture{
+    width: 200%;    
+    margin-top: 50px;
+    display: flex;
+}
+
+#list{
+    margin-left: 15px;
+}
+
+@media (min-width: 1024px) { 
+    .konten{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        font-family: 'Poppins', sans-serif;
+    }
+}
+
+.circle-content-3-3{
+    background-color: #504CEE;
+}
+
+.btn-fill-content-3-3{
+    background-color: #504CEE;
+    transition: 0.3s;
+}
+
+.btn-fill-content-3-3:hover{
+    background-color: #7370FF;
+    transition: 0.3s;
+}

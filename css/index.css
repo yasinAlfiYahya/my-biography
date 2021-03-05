@@ -1,0 +1,86 @@
+.header-choice{
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+}
+
+h3{
+  color: #E7E7E8;
+  margin-top: 13px;
+  margin-right: 15px;
+  font-size: 18px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#button-sign-up{
+  background-color: white;
+  background: #524EEE; 
+  font-family: 'Poppins', sans-serif;
+}
+
+.gambar{
+  margin-bottom: 500px;
+  margin-top: 0px;
+}
+
+#aktif{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.background{
+  background-color: #141432;
+}
+
+.btn-outline-header-2-3{
+  border: 1px solid #707092;
+  color:#707092;
+}
+
+.btn-outline-header-2-3:hover{
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+}
+
+.btn-outline-header-2-3:hover div path{
+  fill: #FFFFFF;
+}
+
+
+.navigation-header-2-3 a:hover{
+  color: #E7E7E8;
+}
+
+.navigation-header-2-3{
+  color: #707092;
+}
+
+.list-footer-2-3 li a{
+  color: #707092;
+}
+
+.list-footer-2-3 li a:hover{
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.border-color-footer-2-3{
+  color: #707092;
+}
+
+.footer-link-footer-2-3:hover{
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.social-media-c-footer-2-3:hover circle, .social-media-p-footer-2-3:hover path{
+  fill: #FFFFFF;
+  cursor: pointer;
+}
